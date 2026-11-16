@@ -1,0 +1,52 @@
+{
+  "start_date": "2026-08-18",
+  "title": "Joseline & Rodrigo",
+  "subtitle": "Dos países, una historia. Y un amor que sigue acortando kilómetros.",
+  "names": {
+    "one": "Joseline",
+    "two": "Rodrigo"
+  },
+  "inside_jokes": [
+    "AY Dios este hombre…",
+    "Amoooor"
+  ],
+  "welcome_message": "Aunque hoy nos separen kilómetros, hay algo que siempre nos encuentra: nosotros.",
+  "letter": "Mi Amor, mi cielo estos tres meses me han enseñado que incluso a la distancia se puede construir algo bonito.\n\nGracias por ser parte de mis días, por tu forma de estar y por todo lo que todavía nos queda por vivir.\n\nGracias por enseñarme lo que es el verdadero amor, en que cada distancia duele pero aun así este amor sigue siendo mas fuerte que la ausencia.\n\nNo se que me hiciste pero me encanta estar enamorada de vos, de que seas el amor de mi vida.\n\nEspero continuar escribiendo muchísimo más, y créeme que estoy ansiosa por poder abrazarte y besarte, y estar a tu lado al fin amor, sos lo mas bello y maravillso que me ha pasado en la vida.\n\nNuestra próxima misión será ese abrazo y muchísimos besos que tanto esperamos. ❤️",
+  "mission": {
+    "name": "Nuestro próximo encuentro",
+    "difficulty": "Una espera que vale la pena",
+    "objective": "Seguir eligiéndonos, cuidando este amor y construyendo recuerdos hasta que podamos estar juntos.",
+    "next": "Ese abrazo y todos los besos que tenemos pendientes. ❤️"
+  },
+  "photos": [
+    "3.jpeg",
+    "4.jpeg",
+    "5.jpeg",
+    "7.jpeg",
+    "9.jpeg",
+    "10.jpeg",
+    "11.jpeg",
+    "WhatsApp Image 2026-11-15 at 1.jpeg",
+    "WhatsApp Image 2026-11-15 at 10.59.27 PM.jpeg"
+  ],
+  "months": [
+    {
+      "month": 1,
+      "title": "Nuestro comienzo",
+      "message": "El inicio de una historia que merece ser contada.",
+      "memory": "Un recuerdo para guardar siempre."
+    },
+    {
+      "month": 2,
+      "title": "Elegirnos cada día",
+      "message": "Aprendiendo a querernos incluso desde lejos.",
+      "memory": "Cada conversación también construye nuestra historia."
+    },
+    {
+      "month": 3,
+      "title": "Tres meses juntos",
+      "message": "Tres meses de una historia que apenas comienza.",
+      "memory": "Y muchos recuerdos más por crear."
+    }
+  ]
+}
